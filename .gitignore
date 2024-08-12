@@ -1,0 +1,11 @@
+# Node modules for backend
+node_modules/
+
+# Environment files specific to backend
+.env
+
+# Logs
+*.log
+
+# Temporary files
+/tmp
